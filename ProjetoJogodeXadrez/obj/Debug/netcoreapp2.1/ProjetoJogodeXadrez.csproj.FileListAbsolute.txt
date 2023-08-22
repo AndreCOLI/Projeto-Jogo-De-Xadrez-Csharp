@@ -1,0 +1,13 @@
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\bin\Debug\netcoreapp2.1\ProjetoJogodeXadrez.deps.json
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\bin\Debug\netcoreapp2.1\ProjetoJogodeXadrez.runtimeconfig.json
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\bin\Debug\netcoreapp2.1\ProjetoJogodeXadrez.runtimeconfig.dev.json
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\bin\Debug\netcoreapp2.1\ProjetoJogodeXadrez.dll
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\bin\Debug\netcoreapp2.1\ProjetoJogodeXadrez.pdb
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\obj\Debug\netcoreapp2.1\ProjetoJogodeXadrez.csproj.AssemblyReference.cache
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\obj\Debug\netcoreapp2.1\ProjetoJogodeXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\obj\Debug\netcoreapp2.1\ProjetoJogodeXadrez.AssemblyInfoInputs.cache
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\obj\Debug\netcoreapp2.1\ProjetoJogodeXadrez.AssemblyInfo.cs
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\obj\Debug\netcoreapp2.1\ProjetoJogodeXadrez.csproj.CoreCompileInputs.cache
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\obj\Debug\netcoreapp2.1\ProjetoJogodeXadrez.dll
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\obj\Debug\netcoreapp2.1\ProjetoJogodeXadrez.pdb
+C:\Users\Andeh\source\repos\ProjetoJogodeXadrez\ProjetoJogodeXadrez\obj\Debug\netcoreapp2.1\ProjetoJogodeXadrez.genruntimeconfig.cache
